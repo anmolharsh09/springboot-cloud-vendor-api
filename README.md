@@ -1,2 +1,20 @@
 # springboot-cloud-vendor-api
-Cloud Vendor API is a Spring Boot RESTful service that provides full CRUD operations to manage cloud vendor details such as name, address, and phone number. Built for learning and demonstration purposes, it uses HTTP methods and JSON responses and is testable using tools like Postman.
+
+Cloud Vendor API
+
+A simple RESTful API built with **Spring Boot** to manage **Cloud Vendor information**.  
+Supports full CRUD operations using HTTP methods via **Postman**.
+
+Features
+
+- Add new cloud vendor (POST)
+- Get single or all cloud vendor(s) (GET)
+- Update vendor information (PUT)
+- Delete vendor (DELETE)
+
+Technologies Used
+
+- Java 17
+- Spring Boot
+- Spring Web
+- Postman (API testing)
